@@ -1,0 +1,251 @@
+Name	City	Price Per Night	Room Type	Restaurant	Zone	Location	Wellness Center	Pet Friendly	Wi-Fi	Stars	Parking
+Jordan	Duke and Medina	Cape Town	105	Suite	Yes	Beach	City Center	Yes	Yes	Yes	1	No
+Maldonado PLC	Cape Town	484	Single	No	Countryside	City Center	No	No	Yes	2	Yes
+Thompson Inc	Paris	107	Double	No	Mountain	City Center	No	No	Yes	1	No
+Thomas	Campbell and Ramirez	Cape Town	430	Double	Yes	Beach	Suburb	Yes	Yes	No	3	Yes
+Baker Inc	London	364	Apartment	No	Mountain	Suburb	No	Yes	No	3	Yes
+Schultz	Tanner and Acevedo	Tokyo	101	Apartment	Yes	Urban	Suburb	Yes	No	No	4	No
+Hill Group	Beijing	391	Apartment	Yes	Beach	City Center	No	No	Yes	4	No
+Wade PLC	Beijing	264	Apartment	Yes	Countryside	Suburb	No	No	No	4	No
+Dillon Inc	Tokyo	326	Double	No	Urban	City Center	Yes	No	Yes	3	Yes
+Tanner	 Stewart and Smith	Paris	216	Apartment	Yes	Urban	Suburb	No	Yes	Yes	1	Yes
+Mccoy	 Rodriguez and Becker	Rome	385	Single	No	Beach	City Center	Yes	No	No	1	No
+Torres	 Fleming and Hull	Paris	281	Double	Yes	Urban	Suburb	Yes	No	Yes	3	No
+Smith-Webb	Beijing	118	Double	No	Countryside	City Center	No	Yes	Yes	4	Yes
+Carter	 Davis and Pacheco	Bangkok	430	Double	No	Urban	Suburb	Yes	Yes	No	1	Yes
+Johnson Ltd	Dubai	229	Apartment	No	Urban	City Center	No	No	No	5	No
+Wilkins	 Hudson and Williams	Bangkok	162	Apartment	Yes	Mountain	City Center	No	Yes	Yes	2	No
+Reyes-Ramos	Bangkok	379	Suite	No	Beach	City Center	No	No	Yes	3	Yes
+Garcia-Anderson	Tokyo	392	Double	Yes	Beach	City Center	Yes	No	No	3	Yes
+Frazier Ltd	Beijing	316	Single	Yes	Beach	Suburb	No	Yes	Yes	3	Yes
+Hughes-Allison	Dubai	151	Single	No	Countryside	City Center	No	Yes	No	4	Yes
+Wilson	 Morgan and Atkins	Bangkok	323	Double	No	Urban	Suburb	Yes	No	No	2	No
+Arnold-Long	Cape Town	475	Apartment	No	Mountain	Suburb	No	No	Yes	4	Yes
+Mayer	 Anderson and Gilbert	New York	132	Suite	No	Urban	City Center	Yes	Yes	Yes	4	Yes
+Wilson-Oliver	Bangkok	437	Single	Yes	Beach	Suburb	No	No	No	4	Yes
+Morris Inc	New York	147	Suite	No	Beach	Suburb	Yes	Yes	No	5	Yes
+Jackson-Thompson	Paris	359	Double	Yes	Urban	City Center	No	No	Yes	5	No
+Garrett-Velez	New York	226	Apartment	Yes	Countryside	Suburb	Yes	No	Yes	2	No
+Jackson Group	Sydney	248	Apartment	No	Urban	City Center	No	Yes	No	2	No
+Smith	 Meza and Powell	New York	272	Single	No	Mountain	City Center	Yes	Yes	Yes	1	No
+Flynn LLC	London	63	Apartment	Yes	Countryside	Suburb	No	Yes	Yes	2	No
+Shannon	 Jackson and Horn	London	424	Apartment	Yes	Beach	Suburb	No	Yes	No	4	Yes
+Norris-Flynn	New York	301	Single	No	Urban	City Center	No	Yes	No	1	No
+Smith-Flynn	Beijing	277	Double	Yes	Mountain	City Center	Yes	No	No	2	No
+Coleman	 Castillo and Martinez	London	100	Single	Yes	Mountain	Suburb	No	No	No	5	Yes
+Jackson	 Howard and Moore	Rome	460	Suite	No	Beach	City Center	Yes	No	No	2	No
+Hutchinson	 Garcia and Diaz	Sydney	343	Double	No	Mountain	Suburb	No	No	Yes	5	Yes
+Graham	 Becker and Mckinney	Bangkok	219	Double	Yes	Countryside	Suburb	Yes	No	Yes	3	No
+Brady	 Hicks and Williams	Cape Town	442	Single	Yes	Urban	City Center	No	Yes	No	3	No
+Duarte-Garcia	Tokyo	353	Single	No	Beach	Suburb	Yes	No	No	3	Yes
+Price	 Carroll and Patton	New York	491	Double	No	Beach	City Center	Yes	Yes	No	2	Yes
+Martin	 Nelson and Hernandez	London	471	Single	Yes	Countryside	City Center	No	No	No	3	Yes
+Sawyer-Garcia	Sydney	143	Suite	No	Countryside	City Center	Yes	No	No	4	No
+Walters-Lee	Dubai	301	Single	No	Countryside	Suburb	Yes	No	No	5	Yes
+Farrell-Johnson	Rome	464	Apartment	Yes	Mountain	City Center	Yes	No	Yes	5	Yes
+Keith Inc	Dubai	213	Double	No	Mountain	City Center	Yes	Yes	Yes	5	No
+Parker	 Long and Davis	London	163	Suite	Yes	Urban	City Center	Yes	Yes	Yes	3	Yes
+Wilson	 Johns and Graham	London	299	Suite	Yes	Beach	City Center	Yes	Yes	No	1	No
+Sawyer Group	Rome	282	Double	No	Mountain	City Center	No	No	No	5	Yes
+Knapp	 Young and Day	Bangkok	182	Apartment	Yes	Countryside	Suburb	Yes	No	No	3	Yes
+Huffman-Walker	Tokyo	218	Suite	Yes	Countryside	Suburb	No	Yes	No	5	No
+Moss	 Wheeler and Watts	Paris	340	Apartment	Yes	Beach	Suburb	No	No	Yes	4	No
+Powell-Ross	Paris	95	Double	Yes	Urban	City Center	No	No	Yes	2	Yes
+Tate and Sons	New York	88	Single	No	Urban	City Center	No	No	No	4	Yes
+Suarez	 Baker and Moody	New York	435	Single	Yes	Beach	Suburb	Yes	Yes	Yes	2	No
+Silva-Chambers	Bangkok	246	Suite	Yes	Countryside	City Center	Yes	No	No	1	No
+Grant and Sons	Sydney	351	Suite	Yes	Mountain	City Center	No	Yes	No	4	Yes
+Clark	 Long and Osborn	Tokyo	88	Suite	No	Mountain	City Center	Yes	No	No	3	No
+Williams	 Mcpherson and Perry	Paris	172	Single	No	Countryside	City Center	Yes	Yes	Yes	4	No
+Cooper	 Hill and Floyd	Paris	407	Double	Yes	Urban	City Center	No	Yes	No	4	Yes
+Lynch	 Hawkins and Macdonald	Bangkok	275	Apartment	Yes	Beach	Suburb	No	No	Yes	2	Yes
+Powers	 Hoffman and Jenkins	Sydney	315	Double	Yes	Urban	City Center	No	No	Yes	2	No
+Powell-Stewart	Dubai	468	Apartment	Yes	Urban	Suburb	Yes	No	No	4	Yes
+Zhang Ltd	New York	206	Apartment	No	Mountain	City Center	No	Yes	Yes	4	No
+Norman	 Ortiz and Kelly	Sydney	191	Apartment	Yes	Countryside	Suburb	Yes	No	No	2	Yes
+Patel Inc	Beijing	144	Suite	No	Beach	City Center	Yes	No	Yes	3	Yes
+Contreras	 Kennedy and Bond	Beijing	351	Apartment	No	Beach	Suburb	Yes	Yes	Yes	5	No
+Perez	 Carson and Braun	New York	214	Double	Yes	Urban	Suburb	No	No	No	4	No
+Smith-Evans	Rome	142	Double	No	Countryside	Suburb	Yes	No	No	2	No
+Davis-Reed	Cape Town	243	Single	No	Beach	Suburb	No	No	Yes	2	Yes
+Hill	 Bridges and Ritter	Cape Town	127	Single	Yes	Urban	Suburb	No	Yes	Yes	3	No
+Bennett-Ryan	Bangkok	404	Suite	Yes	Countryside	City Center	Yes	No	No	1	No
+Hardy LLC	Rome	207	Apartment	Yes	Urban	Suburb	Yes	No	No	3	No
+Rodriguez-Harrington	New York	145	Suite	No	Countryside	Suburb	Yes	Yes	Yes	3	Yes
+Patel	 Anderson and Goodwin	London	147	Apartment	No	Urban	Suburb	No	No	No	3	No
+Martinez	 Herrera and Powell	Cape Town	133	Single	Yes	Mountain	City Center	No	No	Yes	3	No
+Osborne-Harrison	Sydney	202	Double	No	Countryside	City Center	Yes	Yes	Yes	1	Yes
+Martin-Hall	Dubai	248	Suite	No	Urban	City Center	No	Yes	No	3	Yes
+Becker Inc	Beijing	284	Single	Yes	Countryside	Suburb	No	Yes	No	1	Yes
+Phillips Group	New York	389	Apartment	No	Mountain	Suburb	No	No	Yes	3	Yes
+Taylor	 Strong and Roberts	Bangkok	276	Apartment	No	Mountain	City Center	No	Yes	Yes	3	Yes
+Sullivan-Walker	Cape Town	52	Apartment	Yes	Beach	City Center	Yes	Yes	Yes	5	Yes
+Odom Group	Rome	116	Apartment	No	Countryside	Suburb	Yes	Yes	Yes	5	Yes
+Jacobs-Hernandez	London	83	Suite	No	Countryside	City Center	Yes	Yes	Yes	2	No
+Chavez	 Hodge and Pittman	Sydney	364	Apartment	Yes	Urban	Suburb	No	Yes	Yes	1	No
+Mccullough PLC	Bangkok	102	Single	No	Beach	Suburb	Yes	No	No	5	No
+Perez-Lopez	Paris	93	Suite	Yes	Beach	Suburb	No	No	No	2	Yes
+Scott	 Allen and Meadows	Sydney	277	Double	No	Countryside	Suburb	No	No	No	3	No
+Bolton	 Stewart and Dillon	Rome	52	Suite	No	Beach	City Center	Yes	Yes	Yes	4	Yes
+Smith PLC	Cape Town	255	Apartment	No	Beach	Suburb	No	No	No	3	Yes
+Day	 Brooks and Warner	Paris	111	Single	No	Mountain	Suburb	No	Yes	No	3	Yes
+Smith	 Lopez and Martinez	Dubai	310	Apartment	No	Mountain	City Center	Yes	Yes	No	4	No
+Jensen Ltd	Cape Town	298	Single	Yes	Beach	City Center	No	Yes	Yes	4	Yes
+Charles	 Rivera and Hall	Cape Town	496	Suite	Yes	Mountain	City Center	No	No	No	1	No
+Thornton-Brown	Beijing	473	Double	No	Urban	Suburb	No	Yes	Yes	1	Yes
+Mason-Smith	Sydney	94	Double	Yes	Countryside	City Center	Yes	No	Yes	2	No
+Roberts	 Castaneda and Lynch	Dubai	242	Single	No	Mountain	City Center	Yes	No	Yes	4	No
+Garcia Inc	Dubai	230	Double	No	Countryside	City Center	Yes	Yes	Yes	3	No
+Wagner Group	Paris	186	Suite	Yes	Mountain	City Center	No	Yes	No	1	Yes
+Reyes	 Thomas and Pugh	Cape Town	127	Double	Yes	Beach	Suburb	Yes	Yes	No	5	Yes
+Morris	 Hudson and Petersen	Rome	448	Double	No	Mountain	City Center	No	No	No	4	Yes
+Moon	 Blair and Martinez	Paris	66	Apartment	No	Beach	City Center	No	No	Yes	2	No
+Stanley-Perez	Beijing	384	Single	No	Countryside	Suburb	Yes	No	No	2	No
+Bray-Spencer	Sydney	94	Single	Yes	Countryside	City Center	Yes	No	Yes	4	No
+Hensley Group	Bangkok	165	Double	No	Urban	City Center	No	No	No	2	No
+Walker LLC	New York	275	Double	Yes	Beach	City Center	Yes	No	No	2	No
+Fox-Lewis	Tokyo	124	Double	No	Mountain	Suburb	No	Yes	Yes	2	No
+Hicks-Henry	Bangkok	400	Apartment	No	Urban	City Center	No	No	No	5	No
+Gonzalez	 Evans and Garcia	Paris	323	Single	Yes	Countryside	Suburb	No	No	Yes	2	Yes
+Ford Ltd	Sydney	226	Single	No	Beach	Suburb	Yes	Yes	No	4	No
+Robinson Group	New York	283	Suite	Yes	Mountain	City Center	No	Yes	No	1	Yes
+Jefferson-Brown	Paris	258	Double	Yes	Mountain	City Center	Yes	No	No	3	Yes
+Torres-Hernandez	Cape Town	395	Single	No	Mountain	Suburb	No	No	Yes	4	No
+Rodriguez LLC	Rome	488	Double	Yes	Countryside	Suburb	No	Yes	Yes	4	No
+Edwards	 Wilson and Cabrera	Tokyo	141	Double	Yes	Urban	Suburb	No	Yes	Yes	2	No
+Gordon and Sons	Paris	409	Single	Yes	Beach	City Center	No	Yes	Yes	1	Yes
+Fields and Sons	Rome	372	Double	No	Countryside	Suburb	Yes	Yes	No	4	Yes
+Ford	 Benson and Gibson	Beijing	395	Single	No	Countryside	Suburb	No	No	Yes	5	Yes
+Bird-Richards	Sydney	206	Double	Yes	Beach	City Center	Yes	Yes	No	1	No
+Smith-Moyer	Beijing	445	Apartment	No	Urban	Suburb	No	No	No	3	Yes
+Tran	 Miller and Pitts	Sydney	192	Suite	Yes	Urban	City Center	Yes	Yes	No	4	Yes
+Bryant-Adams	Paris	326	Single	Yes	Urban	Suburb	No	Yes	No	3	No
+Harris and Sons	Paris	81	Suite	No	Urban	City Center	No	No	No	2	No
+Lin	 Elliott and Smith	Beijing	238	Suite	Yes	Urban	City Center	Yes	No	Yes	1	Yes
+Allen and Sons	Sydney	369	Double	Yes	Countryside	Suburb	No	No	No	1	No
+Taylor and Sons	Beijing	395	Double	No	Countryside	Suburb	Yes	Yes	Yes	2	No
+Campbell-Odom	New York	430	Double	Yes	Mountain	Suburb	Yes	Yes	Yes	1	No
+Jordan-Lopez	Bangkok	437	Double	Yes	Urban	City Center	No	No	Yes	2	No
+Christian Ltd	Cape Town	51	Apartment	No	Mountain	City Center	Yes	No	Yes	2	No
+Jones PLC	Paris	427	Double	No	Beach	City Center	Yes	Yes	Yes	3	Yes
+Valentine Ltd	New York	99	Single	No	Mountain	City Center	No	Yes	Yes	4	No
+Rodgers Group	Sydney	107	Single	No	Beach	City Center	Yes	Yes	No	5	No
+Mendoza	 Gonzalez and Jones	London	476	Apartment	Yes	Mountain	City Center	Yes	No	Yes	3	No
+Berg Inc	Cape Town	373	Single	Yes	Countryside	Suburb	Yes	Yes	Yes	3	Yes
+Sparks	 Jacobson and Rivas	Dubai	476	Suite	Yes	Mountain	Suburb	Yes	No	Yes	2	Yes
+Olson LLC	Rome	186	Double	Yes	Beach	Suburb	Yes	Yes	Yes	1	Yes
+Wiley-Collins	Rome	173	Apartment	Yes	Beach	Suburb	Yes	Yes	Yes	5	No
+Flynn	 Mcdaniel and Weber	Dubai	128	Single	No	Countryside	City Center	No	No	Yes	5	Yes
+Wall-Chavez	Sydney	424	Apartment	No	Countryside	City Center	Yes	Yes	Yes	2	No
+Byrd	 Brown and Park	Rome	430	Single	Yes	Urban	Suburb	Yes	No	No	2	Yes
+Rasmussen-Burnett	New York	433	Double	Yes	Countryside	City Center	Yes	Yes	Yes	1	No
+Medina	 Olson and Parker	Tokyo	394	Single	No	Countryside	City Center	No	Yes	No	1	No
+King Group	Paris	368	Double	Yes	Beach	Suburb	Yes	Yes	Yes	3	No
+Chang	 Benitez and Brooks	Paris	137	Apartment	Yes	Mountain	Suburb	No	No	Yes	1	Yes
+Pennington Group	Tokyo	252	Suite	No	Beach	Suburb	Yes	No	No	1	Yes
+Lowe-Sanchez	Bangkok	272	Single	No	Beach	City Center	Yes	Yes	Yes	4	Yes
+Howell	 Lawrence and Wagner	Rome	493	Apartment	Yes	Mountain	Suburb	No	Yes	Yes	1	Yes
+Brown	 Williams and Williams	Bangkok	177	Apartment	No	Mountain	City Center	No	No	No	1	Yes
+Burns-Alexander	New York	69	Suite	Yes	Mountain	Suburb	Yes	No	No	1	No
+Koch	 Ramirez and Ruiz	Tokyo	457	Suite	Yes	Mountain	Suburb	Yes	No	No	4	Yes
+Clark	 Jordan and Berry	Sydney	180	Single	Yes	Beach	City Center	Yes	No	Yes	1	No
+Chandler-Edwards	New York	379	Suite	Yes	Beach	Suburb	No	Yes	No	5	No
+Park	 Moore and White	Dubai	88	Single	Yes	Mountain	City Center	Yes	No	Yes	3	No
+Thompson	 Flores and Hill	Sydney	101	Single	Yes	Urban	City Center	No	No	No	5	Yes
+Grimes	 Massey and White	Paris	439	Double	Yes	Mountain	City Center	No	No	Yes	5	Yes
+Lopez and Sons	Paris	124	Suite	Yes	Beach	City Center	Yes	Yes	Yes	3	Yes
+Barker-Walsh	Beijing	268	Apartment	No	Mountain	Suburb	No	Yes	Yes	3	No
+Owens Inc	Bangkok	384	Double	No	Beach	City Center	Yes	Yes	Yes	2	Yes
+Stewart	 Moreno and Lopez	Tokyo	206	Apartment	Yes	Beach	City Center	Yes	No	No	1	Yes
+Mata PLC	Paris	469	Suite	No	Urban	Suburb	Yes	No	No	5	Yes
+Parker	 Lin and Williams	New York	429	Suite	Yes	Beach	City Center	No	No	Yes	1	Yes
+Combs-Dunlap	Paris	199	Apartment	Yes	Beach	City Center	Yes	No	No	5	Yes
+Myers-Adams	New York	404	Suite	Yes	Urban	Suburb	Yes	No	Yes	1	Yes
+Hall-Jones	Cape Town	99	Suite	No	Beach	Suburb	Yes	Yes	No	1	No
+Adkins	 Maxwell and Young	Beijing	418	Apartment	Yes	Beach	City Center	Yes	No	Yes	5	No
+Douglas	 Neal and Leach	Rome	331	Single	Yes	Countryside	City Center	No	Yes	No	4	No
+Bush-Hooper	Beijing	404	Single	No	Mountain	City Center	No	Yes	Yes	5	Yes
+Hayden-Ross	Sydney	364	Double	No	Countryside	City Center	No	No	Yes	3	No
+Irwin	 Lopez and Lang	Paris	356	Apartment	Yes	Mountain	City Center	No	No	Yes	2	No
+Montgomery	 Zuniga and Potter	Beijing	307	Double	Yes	Urban	City Center	No	No	No	3	Yes
+Obrien-Miller	London	317	Apartment	Yes	Mountain	City Center	Yes	No	No	3	No
+Bennett	 Robinson and Dean	Bangkok	119	Single	Yes	Mountain	City Center	Yes	Yes	Yes	1	No
+Williams-Martinez	New York	462	Double	Yes	Mountain	City Center	No	Yes	Yes	4	No
+Rose-Ward	Sydney	278	Double	Yes	Urban	Suburb	Yes	Yes	Yes	4	Yes
+Matthews	 Taylor and Rodriguez	London	294	Apartment	No	Beach	Suburb	Yes	Yes	No	4	No
+Lin-Elliott	Cape Town	297	Apartment	Yes	Countryside	City Center	No	No	Yes	5	Yes
+Leonard-Holloway	Beijing	108	Apartment	Yes	Countryside	Suburb	Yes	Yes	No	1	Yes
+Gross-Maxwell	Dubai	379	Double	No	Beach	Suburb	Yes	No	No	2	No
+Rivera Group	Bangkok	162	Double	Yes	Mountain	Suburb	No	No	No	1	Yes
+Carroll-Myers	Dubai	334	Suite	No	Mountain	Suburb	No	No	Yes	4	Yes
+Fuentes-Blair	Bangkok	436	Single	No	Beach	Suburb	Yes	Yes	Yes	5	No
+Thornton Inc	Dubai	468	Apartment	No	Beach	Suburb	Yes	No	Yes	1	Yes
+Martinez	 Thompson and Carter	Sydney	55	Suite	Yes	Urban	Suburb	No	No	Yes	1	No
+Fernandez-Dawson	Dubai	429	Double	No	Urban	City Center	No	No	Yes	5	Yes
+Thomas PLC	New York	131	Single	No	Mountain	City Center	No	Yes	No	5	Yes
+Chavez-Collier	Dubai	101	Double	Yes	Countryside	City Center	No	Yes	Yes	2	No
+Garrison-Graham	Rome	356	Single	Yes	Countryside	Suburb	No	Yes	Yes	1	No
+Short Group	Dubai	86	Single	Yes	Mountain	City Center	Yes	Yes	No	1	Yes
+Bean-Elliott	Beijing	52	Double	Yes	Mountain	City Center	No	No	Yes	5	No
+Harrell Ltd	Rome	99	Double	No	Urban	City Center	Yes	No	Yes	4	No
+Herrera	 Patterson and Santiago	Sydney	185	Double	No	Countryside	Suburb	Yes	Yes	No	1	Yes
+Thomas Ltd	Rome	182	Double	Yes	Mountain	Suburb	No	Yes	No	3	No
+Nguyen-Green	Paris	127	Single	No	Countryside	Suburb	No	Yes	Yes	5	No
+Smith	 Lyons and Harris	Beijing	161	Apartment	Yes	Beach	City Center	No	No	Yes	2	No
+Bowers-Christensen	New York	497	Suite	Yes	Urban	City Center	Yes	Yes	No	5	Yes
+Bradford-Turner	Rome	182	Single	No	Urban	Suburb	Yes	No	No	2	No
+Williams PLC	Beijing	410	Double	No	Countryside	City Center	No	No	No	3	Yes
+Rose-Rodriguez	London	382	Double	No	Beach	City Center	Yes	Yes	Yes	5	No
+Moore-Doyle	Rome	202	Suite	Yes	Mountain	City Center	Yes	Yes	No	5	Yes
+Washington	 Espinoza and Murphy	Tokyo	476	Suite	No	Urban	Suburb	No	Yes	Yes	2	No
+Hill-Steele	London	213	Single	Yes	Mountain	City Center	No	Yes	Yes	3	Yes
+Walker-Scott	Bangkok	142	Apartment	Yes	Beach	Suburb	No	Yes	Yes	2	No
+Stewart	 Taylor and Williamson	Dubai	416	Double	No	Countryside	City Center	Yes	Yes	No	1	No
+Lawrence-Schroeder	Cape Town	280	Apartment	Yes	Urban	Suburb	Yes	Yes	Yes	4	No
+Maldonado-Huerta	Rome	392	Single	No	Beach	Suburb	No	Yes	No	5	Yes
+Underwood LLC	Cape Town	195	Suite	No	Mountain	City Center	Yes	No	No	1	Yes
+Morris LLC	New York	446	Single	No	Urban	Suburb	Yes	No	No	2	Yes
+Rodriguez	 Armstrong and Little	Rome	228	Double	No	Beach	Suburb	No	No	Yes	3	No
+Tran Group	New York	436	Suite	Yes	Urban	Suburb	Yes	Yes	No	3	No
+Mitchell	 Davis and Perez	Cape Town	226	Suite	Yes	Urban	Suburb	No	Yes	No	5	Yes
+Foster PLC	Tokyo	269	Single	Yes	Beach	Suburb	No	Yes	Yes	2	No
+Stuart Inc	Paris	404	Apartment	Yes	Countryside	Suburb	No	No	No	5	Yes
+Roberts-Garcia	Paris	448	Single	No	Countryside	City Center	No	Yes	No	3	No
+Bailey and Sons	Cape Town	198	Apartment	No	Urban	Suburb	No	No	No	5	No
+Brooks PLC	Beijing	241	Single	No	Countryside	City Center	Yes	Yes	Yes	4	Yes
+Gonzalez	 Wolf and Taylor	London	343	Apartment	No	Beach	Suburb	No	No	No	2	No
+Stark	 Morris and Wright	Dubai	434	Apartment	No	Beach	City Center	Yes	No	Yes	3	Yes
+Larson	 Tate and Hall	Dubai	431	Double	No	Beach	Suburb	No	No	Yes	4	No
+Russell-Green	London	57	Single	No	Mountain	City Center	No	Yes	Yes	5	No
+Williams-Hayes	Cape Town	256	Apartment	No	Urban	Suburb	Yes	No	No	3	No
+Larson Ltd	London	351	Apartment	Yes	Beach	City Center	Yes	No	No	4	Yes
+Osborne-Mills	Tokyo	368	Double	Yes	Urban	Suburb	No	Yes	Yes	5	Yes
+Jones	 Davis and Farley	Tokyo	117	Double	Yes	Urban	Suburb	Yes	Yes	Yes	2	No
+Mccarthy-Hampton	Bangkok	148	Single	Yes	Countryside	Suburb	No	Yes	Yes	2	No
+King LLC	Paris	195	Double	Yes	Countryside	Suburb	No	No	No	1	No
+Higgins PLC	Cape Town	153	Single	No	Mountain	City Center	Yes	Yes	Yes	4	No
+Day Group	Paris	346	Double	Yes	Mountain	City Center	Yes	Yes	No	2	No
+Acosta Group	Rome	299	Apartment	Yes	Mountain	Suburb	Yes	No	Yes	1	No
+Ross PLC	Cape Town	418	Apartment	Yes	Beach	City Center	No	Yes	No	3	Yes
+Melendez	 White and Guzman	Rome	148	Double	Yes	Beach	Suburb	No	Yes	No	5	Yes
+Brown-Bryant	Sydney	153	Apartment	Yes	Urban	Suburb	No	Yes	Yes	3	Yes
+Wong-Hester	Tokyo	372	Apartment	Yes	Mountain	City Center	Yes	Yes	No	5	No
+Jones LLC	Tokyo	308	Suite	No	Urban	City Center	Yes	No	No	5	Yes
+Oneill-Daniel	Sydney	470	Double	No	Urban	Suburb	No	Yes	Yes	3	No
+Mora	 Fisher and Finley	Rome	398	Double	No	Beach	City Center	Yes	Yes	No	1	Yes
+Adams Ltd	Beijing	426	Suite	Yes	Urban	City Center	No	Yes	Yes	4	Yes
+Boyd	 Perez and Zamora	Paris	316	Single	No	Urban	City Center	No	No	No	5	No
+Hicks-Frey	New York	294	Double	No	Countryside	Suburb	No	Yes	Yes	2	Yes
+Francis-Sanders	Beijing	218	Single	No	Countryside	Suburb	Yes	No	Yes	5	No
+Lane LLC	Tokyo	358	Single	Yes	Countryside	Suburb	Yes	Yes	No	1	Yes
+Mccormick-Lewis	London	250	Suite	Yes	Mountain	Suburb	No	No	No	2	Yes
+Davis	 Walker and Nolan	Rome	261	Suite	No	Urban	Suburb	No	No	Yes	1	No
+Short	 Christensen and Lewis	Tokyo	268	Double	Yes	Beach	Suburb	Yes	Yes	Yes	3	Yes
+Meyers Ltd	London	457	Suite	Yes	Mountain	Suburb	Yes	No	Yes	5	No
+Rivera-Gonzales	Sydney	78	Single	Yes	Mountain	City Center	Yes	Yes	No	3	No
+Waters Ltd	Rome	333	Single	Yes	Countryside	City Center	Yes	No	No	2	Yes
+Smith LLC	Tokyo	472	Apartment	Yes	Urban	City Center	Yes	Yes	Yes	5	Yes
+Moore PLC	Sydney	251	Apartment	No	Urban	City Center	Yes	No	Yes	1	Yes
+Smith-Parker	Cape Town	137	Single	No	Countryside	City Center	No	Yes	No	4	Yes
+Elliott-Bell	Cape Town	211	Suite	No	Countryside	Suburb	No	No	No	2	Yes
+Gardner	 Smith and Moore	Cape Town	440	Suite	No	Urban	Suburb	Yes	Yes	No	5	Yes
