@@ -1,0 +1,177 @@
+Name	City	Price Per Night		Room Type	Restaurant		Zone	Location	Wellness Center		Pet Friendly	Stars	Parking
+Adare MaNor, Adare, 105, Single, Yes, Historical, City Center, Yes, No, 2, Yes
+Vila Vita Parc, Algarve, 190, Double, Yes, Beach, Suburb, No, No, 3, Yes
+Conservatorium Hotel, Amsterdam, 210, Suite, No, Urban, City Center, Yes, Yes, 4, Yes
+Hotel de l'Europe, Amsterdam, 170, Triple, Yes, Urban, City Center, No, No, 2, No
+Andaz Amsterdam Prinsengracht, Amsterdam, 108, Apartment, No, Urban, Suburb, No, Yes, 2, Yes
+Conservatorium Hotel, Amsterdam, 140, Double, Yes, Urban, Suburb, No, Yes, 3, Yes
+Waldorf Astoria, Amsterdam, 260, Apartment, No, Urban, City Center, Yes, No, 2, Yes
+InterContinental Amstel, Amsterdam, 95, Single, No, Urban, City Center, No, No, 1, Yes
+The Chedi Andermatt, Andermatt, 128, Double, Yes, Mountain, Suburb, Yes, No, 3, No
+Hotel du Cap-Eden-Roc, Antibes, 184, Apartment, No, Beach, Suburb, No, No, 3, Yes
+Hotel Grande Bretagne, Athens, 198, Triple, Yes, Urban, City Center, Yes, Yes, 4, Yes
+Brenners Park-Hotel & Spa, Baden-Baden, 118, Single, Yes, Urban, Suburb, No, Yes, 3, Yes
+Hotel Arts, Barcelona, 169, Double, Yes, Beach, Suburb, Yes, No, 4, Yes
+Fairmont Rey Juan Carlos I, Barcelona, 240, Triple, Yes, Beach, Suburb, Yes, No, 5, Yes
+Hotel Arts, Barcelona, 123, Apartment, No, Beach, Suburb, Yes, Yes, 3, Yes
+Mandarin Oriental, Barcelona, 200, Suite, Yes, Beach, City Center, Yes, No, 5, Yes
+W Barcelona, Barcelona, 137, Double, No, Beach, Suburb, No, Yes, 2, No
+Hotel Les Trois Rois, Basel, 109, Single, Yes, Urban, City Center, No, No, 2, No
+Grand Hotel Villa Serbelloni, Bellagio, 104, Single, Yes, Lake, Suburb, Yes, No, 2, Yes
+Hotel Adlon Kempinski, Berlin, 111, Double, No, Urban, City Center, Yes, Yes, 3, Yes
+Hotel de Rome, Berlin, 180, Triple, Yes, Urban, City Center, Yes, No, 3, Yes
+The Ritz-Carlton, Berlin, 230, Apartment, Yes, Urban, Suburb, Yes, No, 5, Yes
+Hotel Bellevue Palace, Bern, 154, Single, Yes, Historical, City Center, No, Yes, 4, Yes
+The Grand Brighton, Brighton, 139, Double, Yes, Beach, Suburb, No, No, 3, No
+Hotel Amigo, Bruxelles, 122, Triple, No, Beach, Suburb, No, No, 2, Yes
+Hotel Le Plaza, Bruxelles, 139, Single, Yes, Beach, Suburb, Yes, No, 4, Yes
+Hotel Metropole, Bruxelles, 188, Apartment, Yes, Beach, Suburb, Yes, No, 4, Yes
+The Dominican, Bruxelles, 123, Apartment, No, Beach, Suburb, Yes, Yes, 3, Yes
+Sofitel Bruxelles Le Louise, Bruxelles, 247, Suite, Yes, Beach, Suburb, Yes, No, 5, Yes
+Steigenberger Wiltcher's, Bruxelles, 171, Single, No, Beach, Suburb, No, No, 3, Yes
+Corinthia Hotel, Budapest, 222, Double, Yes, Urban, City Center, Yes, Yes, 4, Yes
+Kempinski Hotel Corvinus, Budapest, 142, Single, Yes, Urban, Suburb, Yes, Yes, 3, No
+Four Seasons Hotel Gresham Palace, Budapest, 150, Triple, Yes, Urban, City Center, Yes, No, 3, Yes
+Aria Hotel Budapest by Library Hotel Collection, Budapest, 250, Suite, Yes, Urban, City Center, No, No, 4, Yes
+Corinthia Hotel, Budapest, 194, Triple, No, Urban, Suburb, No, Yes, 3, Yes
+Mamaison Hotel Andrassy, Budapest, 129, Double, Yes, Urban, Suburb, Yes, No, 3, Yes
+Excelsior Hotel Ernst, Cologne, 130, Double, Yes, Urban, City Center, Yes, No, 3, Yes
+Villa d'Este, Como, 120, Single, Yes, Lake, Suburb, No, No, 3, Yes
+Grand Hotel Tremezzo, Como, 110, Double, No, Lake, Suburb, Yes, No, 2, No
+Ashford Castle, Cong, 140, Single, No, Urban, Suburb, Yes, No, 3, Yes
+Dromoland Castle, County Clare, 177, Double, Yes, Urban, City Center,Yes, Yes, 4, Yes
+Ballyfin Demesne, County Laois, 188, Triple, Yes, Urban, Suburb, Yes, No, 3, Yes
+Adare MaNor, County Limerick, 131, Single, Yes, Urban, Suburb, No, No, 2, No
+Ashford Castle, County Mayo, 162, No, Urban, City Center, Yes, No, 3, Yes
+Hotel Le K2 Palace, Courchevel, 145, Double, Mountain, City Center, Yes, No, 4, Yes
+Belmond La Residencia, Deià, 184, Apartment, Yes, Beach, City Center, Yes, No, 5, Yes
+Hotel Taschenbergpalais Kempinski, Dresden, 193, Suite, Yes, Beach, City Center, Yes, Yes, 5, Yes
+The Shelbourne, Dublin, 108, Single, No, Beach, Suburb, No, No, 2, No
+The Westbury, Dublin, 289, Triple, Yes, Beach, City Center, Yes, No, 4, Yes
+The Marker Hotel, Dublin, 210, Double, Yes, Beach, Suburb, No, Yes, 3, Yes
+The Shelbourne, Dublin, 233, Double, Yes, Beach, Suburb, Yes, Yes, 3, No
+Hotel Excelsior, Dubrovnik, 231, Triple, No, Beach, Suburb, No, Yes, 2, Yes
+The Balmoral, Edinburgh, 150, Suite, No, Beach, City Center, No, No, 2, Yes
+Schloss Elmau, Elmau, 259, Double, Yes, Mountain, Suburb, No, Yes, 3, Yes
+Hotel Villa Honegg, Ennetbürgen, 218, Double, No, Urban, Suburb, Yes, No, 2, Yes
+Château de la Chèvre d'Or, Eze, 250, Suite, Beach, Suburb, Yes, Yes, 5, Yes 
+Four Seasons Hotel Firenze, Florence, 280, Suite, Yes, Historical, City Center, Yes, Yes, 5, Yes
+Rocco Forte Hotel Savoy, Florence, 260, Double, Yes, Historical, City Center, Yes, Yes, 3, No
+Villa Kennedy, Frankfurt, 200, Double, Urban, Yes, Suburb, No, Yes, 4, Yes
+Grand Hotel Kempinski, Geneva, 300, Yes, Apartment, Lake, Suburb, Yes, Yes, 5, Yes
+Mandarin Oriental, Geneva, 150, Single, No, Lake, City Center, Yes, Yes, 2, Yes
+Hotel Alhambra Palace, Granada, 180, No, Double, Urban, Suburb, Yes, Yes, 3, No
+Hotel Atlantic Kempinski, Hamburg, 220, Yes, Double, Urban, City Center, Yes, Yes, 5, Yes
+The Fontenay, Hamburg, 240, Double, Yes, Urban, Suburb, Yes, Yes, 3, Yes
+Grand Hotel, Heiligendamm, 270, Suite, Yes, Urban, Suburb, Yes, Yes, 5, Yes
+Hotel Kämp, Helsinki, 230, Single, Yes, Urban, City Center, Yes, Yes, 5, No
+Victoria-Jungfrau Grand Hotel & Spa, Interlaken, 280, Suite, No, Mountain, Suburb, Yes, Yes, 3, Yes
+Raffles Istanbul, Istanbul, 250, Apartment, Yes, Urban, City Center, Yes, Yes, 5, Yes
+Swissotel The Bosphorus, Istanbul, 270, Suite, Yes, Urban, City Center, Yes, Yes, 3, Yes
+Hotel Pupp, Karlovy Vary, 210, Triple, Yes, Urban, City Center, Yes, Yes, 4, Yes
+Schlosshotel Kronberg, Kronberg im Taunus, 170, Double, No, Mountain, Suburb, Yes, Yes, 2, No
+Grand Hotel Tremezzo, Lake Como, 300, Suite, Yes, Lake, Suburb, Yes, Yes, 5, Yes
+Villa d'Este, Lake Como, 290, Triple, Yes, Lake, Suburb, Yes, Yes, 5, Yes
+Six Senses Douro Valley, Lamego, 170, Double, No, Urban, Suburb, Yes, Yes, 4, Yes
+Beau-Rivage Palace, Lausanne, 181, Suite, Yes, Lake, Suburb, Yes, Yes, 3, Yes
+InterContinental Lisbon, Lisbon, 200, Yes, Double, Beach, City Center, Yes, Yes, 4, Yes
+Pousada de Lisboa, Lisbon, 120, Double, Yes, Beach, City Center, Yes, Yes, 5, No
+Pestana Palace Lisboa, Lisbon, 230, Suite, Yes, Beach, Suburb, Yes, Yes, 5, Yes
+The Langham, London, 167, Double, No, Urban, City Center, Yes, Yes, 2, Yes
+Claridge's, London, 133, Suite, Yes, Urban, City Center, Yes, Yes, 3, Yes
+The Savoy, London, 181, Single, Yes, Urban, City Center, Yes, Yes, 5, Yes
+Hotel Cafe Royal, London, 290, Yes, Apartment, Urban, City Center, Yes, Yes, 5, No
+The Connaught, London, 280, Suite, No, Urban, City Center, Yes, Yes, 3, Yes
+The Dorchester, London, 270, Single, No, Urban, City Center, Yes, Yes, 5, Yes
+Claridge's, London, 153, Suite, Urban, Yes, City Center, Yes, Yes, 5, Yes
+The Lanesborough, London, 290, Suite, Yes, Urban, City Center, Yes, Yes, 3, Yes
+Hilton London Metropole, London, 220, Yes, Double, Urban, Suburb, Yes, Yes, 4, Yes
+The Ritz London, London, 290, Triple, Yes, Urban, City Center, Yes, Yes, 5, Yes
+Rosewood London, London, 172, Single, Yes, Urban, City Center, Yes, Yes, 3, Yes
+The Berkeley, London, 270, Suite, Urban, Yes, City Center, Yes, Yes, 5, No
+Hotel Café Royal, London, 110, Single, No, Urban, City Center, Yes, Yes, 5, Yes
+Hotel Splendide Royal, LugaNo, 165, Double, No, Lake, City Center, Yes, Yes, 3, No
+Reid's Palace, Madeira, 190, Double, No, Beach, Suburb, Yes, Yes, 4, Yes
+Hotel Ritz Madrid, Madrid, 146, Suite, No,  Urban, City Center, Yes, Yes, 2, Yes
+Mandarin Oriental Ritz, Madrid, 186, Single, Yes, Urban, City Center, Yes, Yes, 5, No
+Bulgari Hotel, Milan, 270, Triple, Yes, Urban, City Center, Yes, Yes, 5, Yes
+Four Seasons Hotel, Milan, 178, Suite, Yes, Urban, City Center, Yes, Yes, 3, Yes
+Principe di Savoia, Milan, 250, Single, Yes, Urban, City Center, Yes, Yes, 5, Yes
+Park Hyatt Milan, Milan, 127, Apartment, No, Urban, City Center, Yes, Yes, 3, Yes
+Palazzo Parigi Hotel & Grand Spa, Milan, 199, Suite, No, Urban, City Center, Yes, Yes, 3, No
+Armani Hotel, Milan, 157, Suite, Yes, Urban, City Center, Yes, Yes, 5, Yes
+Rosewood Castiglion Del Bosco, Montalcino, 180, Double, No,  Rural, City Center, Yes, Yes, 4, Yes
+The Ritz-Carlton, Moscow, 172, Single, No,  Urban, City Center, Yes, Yes, 2, Yes
+Hotel Bayerischer Hof, Munich, 194, Double, Yes, Urban, City Center, Yes, Yes, 3, Yes
+The Charles Hotel, Munich, 220, Triple, Yes, Urban, Suburb, Yes, Yes, 4, Yes
+Hotel Vier Jahreszeiten Kempinski München, Munich, 240, Suite, Yes, Urban, City Center, Yes, Yes, 3, No
+Dromoland Castle, Newmarket-on-Fergus, 170, Double, Yes, Rural, Suburb, Yes, Yes, 4, Yes
+Hotel Negresco, Nice, 200, Double, Yes, Beach, City Center, Yes, Yes, 4, Yes
+Clarion Hotel The Hub, Oslo, 220, Apartment, Yes, Mountain, Suburb, Yes, Yes, 4, Yes
+Grand Hotel, Oslo, 156, Double, No, Mountain, City Center, Yes, Yes, 2, No
+The Ritz Paris, Paris, 270, Suite, No, Urban, City Center, Yes, Yes, 3, Yes
+Le Meurice, Paris, 183, Single, Yes, Urban, City Center, Yes, Yes, 5, Yes
+La Réserve Paris Hotel and Spa, Paris, 177, Suite, Yes, Urban, City Center, Yes, Yes, 5, Yes
+Hotel Le Bristol, Paris, 149, Suite, Yes, Urban, City Center, Yes, Yes, 5, Yes
+L'Hotel, Paris, 260, Double, No, Urban, City Center, Yes, Yes, 5, No
+The Westin Paris - Vendôme, Paris, 144, Suite, Yes, Urban, City Center, Yes, Yes, 2, Yes
+The Peninsula Paris, Paris, 280, Single, Yes, Urban, City Center, Yes, Yes, 3, No
+Shangri-La Hotel, Paris, 176, Triple, No, Urban, City Center, Yes, Yes, 5, Yes
+Hotel du Louvre, Paris, 154, Suite, Yes, Urban, City Center, Yes, Yes, 3, Yes
+Hotel Le Meurice, Paris, 270, Double, Yes, Urban, City Center, Yes, Yes, 5, Yes
+Hotel Peralada Wine Spa & Golf, Peralada, 170, Double, No, Historical, Suburb, Yes, Yes, 4, No
+Grand Hotel Kronenhof, Pontresina, 220, Double, Yes, Mountain, Suburb, Yes, Yes, 3, Yes
+The Yeatman, Porto, 200, Single, Yes, Beach, Suburb, Yes, Yes, 4, No
+Amanzoe, Porto Cheli, 190, Double, Yes, Beach, Suburb, Yes, Yes, 4, Yes
+Hotel Il PellicaNo, Porto Ercole, 180, Double, No, Beach, Suburb, Yes, Yes, 4, Yes
+Hotel Splendido, Portofino, 121, Suite, No, Beach, Suburb, Yes, Yes, 2, Yes
+Hotel U Prince, Praga, 155, Apartment, No, Urban, City Center, Yes, Yes, 3, No
+Mandarin Oriental, Praga, 240, Suite, No, Urban, City Center, Yes, Yes, 5, Yes
+Gran Hotel Son Net, Puigpunyent, 170, Double,Yes, Urban, Suburb, Yes, Yes, 4, Yes
+Palazzo Avino, Ravello, 180, Triple, Yes, Historical, Suburb, Yes, Yes, 4, Yes
+Belmond Hotel Caruso, Ravello, 190, Double, Yes, Historical, Suburb, Yes, Yes, 4, No
+Hotel Borg by Keahotels, Reykjavik, 220, Single, Yes, Urban, City Center, Yes, Yes, 5, Yes
+Hotel de Russie, Rome, 147, Suite, No, Historical, City Center, Yes, Yes, 2, Yes
+Hotel Eden, Rome, 260, Apartment, No, Historical, City Center, Yes, Yes, 3, Yes
+The St. Regis Rome, Rome, 270, Suite, Yes, Historical, City Center, Yes, Yes, 5, Yes
+The Westin Excelsior, Rome, 280, Single, Yes, Historical, City Center, Yes, Yes, 3, No
+JK Place Roma, Rome, 290, Double, Yes, Historical, City Center, Yes, Yes, 5, Yes
+Badrutt's Palace Hotel, Saint Moritz, 129, Double, No, Mountain, City Center, Yes, Yes, 2, Yes
+Kulm Hotel, Saint Moritz, 198, Double, No, Mountain, City Center, Yes, Yes, 5, Yes
+Belmond Grand Hotel Europe, Saint Petersburg, 240, Suite, Yes, Urban, City Center, Yes, Yes, 3, Yes
+Hotel Astoria, Saint Petersburg, 250, Suite, Yes, Urban, City Center, Yes, Yes, 5, Yes
+Lotte Hotel St. Petersburg, Saint Petersburg, 260, Suite, Yes, Urban, City Center, Yes, Yes, 5, No
+Hotel Sacher Salzburg, Salzburg, 170, Single, Yes, Mountain, Suburb, Yes, Yes, 4, Yes
+Hotel Maria Cristina, San Sebastian, 142, Double, No, Beach, Suburb, Yes, Yes, 2, No
+ME Ibiza, Santa Eulalia, 190, Triple, No, Beach, Suburb, Yes, Yes, 3, Yes
+Canaves Oia, Santorini, 200, Single, Yes, Beach, Suburb, Yes, Yes, 4, Yes
+Katikies Hotel, Santorini, 210, Double, Yes, Beach, Suburb, Yes, Yes, 4, No
+Borgo Egnazia, Savelletri di Fasano, 220, Single, Yes, Beach, Suburb, Yes, Yes, 3, Yes
+Hotel Alfonso XIII, Seville, 230, Double, No, Urban, City Center, Yes, Yes, 5, Yes
+Althoff Hotel am Schlossgarten, Stuttgart, 125, Triple, No, Urban, Suburb, Yes, Yes, 2, No
+Swissotel Tallinn, Tallinn, 136, Suite, No, Urban, Suburb, Yes, Yes, 5, Yes
+The Ritz-Carlton, Tenerife, 168, Suite, Yes, Beach, Suburb, Yes, Yes, 5, Yes
+Rosewood Castiglion del Bosco, Tuscany, 170, Double, Yes, Rural, City Center, Yes, Yes, 4, No
+Château Saint-Martin & Spa, Vence, 180, Double, Yes, Rural, Suburb, Yes, Yes, 4, Yes
+Hotel Danieli, Venice, 190, Triple, Yes, Urban, City Center, Yes, Yes, 3, No
+Gritti Palace, Venice, 200, Suite, Yes, Urban, City Center, Yes, Yes, 4, No
+Hotel Cipriani, Venice, 210, Double, No, Urban, City Center, Yes, Yes, 3, Yes
+Belmond Hotel Cipriani, Venice, 220, Apartment, No, Urban, City Center, Yes, Yes, 4, Yes
+Hotel Excelsior Venice Lido Resort, Venice, 230, Double, No, Urban, Suburb, Yes, Yes, 5, No
+JW Marriott Venice Resort & Spa, Venice, 102, Suite, Yes, Urban, Suburb, Yes, Yes, 2, Yes
+Hotel Sacher, Vienna, 250, Suite, Yes, Urban, City Center, Yes, Yes, 5, No
+Hotel Imperial, Vienna, 128, Single,Yes, Urban, City Center, Yes, Yes, 2, Yes
+Grand Hotel, Vienna, 270, Suite, Yes, Urban, City Center, Yes, Yes, 3, Yes
+Park Hyatt Vienna, Vienna, 280, Double, Yes, Urban, City Center, Yes, Yes, 5, No
+Palais Coburg Residenz, Vienna, 290, Apartmnet, No, Urban, Suburb, Yes, Yes, 3, Yes
+Hotel Imperial, Vienna, 300, Suite, No, Urban, City Center, Yes, Yes, 2, Yes
+Grand Hotel, Vienna, 170, Double, Yes, Urban, City Center, Yes, Yes, 4, No
+The Yeatman, Vila Nova de Gaia, 180, Single, Yes, Urban, Suburb, Yes, Yes, 4, Yes
+Sofitel Warsaw Victoria, Warsaw, 190, Apartment, Yes, Urban, City Center, Yes, Yes, 3, No
+The Ritz-Carlton, Wolfsburg, 200, Triple, No, Urban, Suburb, Yes, Yes, 4, Yes
+Grand Hotel Zermatterhof, Zermatt, 210, Double, No, Mountain, Suburb, Yes, Yes, 4, Yes
+The Dolder Grand, Zürich, 220, Suite, Yes, Lake, Suburb, Yes, Yes, 3, Yes
+Baur au Lac, Zürich, 167, Single, Yes, Lake, City Center, Yes, Yes, 2, No
+Dolder Grand, Zürich, 240, Triple, No, Lake, Suburb, Yes, Yes, 4, Yes
+
+
